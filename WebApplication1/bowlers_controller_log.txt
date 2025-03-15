@@ -1,29 +1,11 @@
-BowlersController initialized at 3/15/2025 12:13:47 AM
-3/15/2025 12:13:47 AM: GetBowlers method called
-3/15/2025 12:13:47 AM: Using connection string: Data Source=/Users/zackmcdougal/RiderProjects/WebApplication1/BowlingLeague.sqlite
-3/15/2025 12:13:47 AM: Database file found at /Users/zackmcdougal/RiderProjects/WebApplication1/BowlingLeague.sqlite! Size: 212992 bytes
-3/15/2025 12:13:47 AM: Successfully opened direct database connection!
-3/15/2025 12:13:47 AM: Teams count (direct): 10
-3/15/2025 12:13:47 AM: Bowlers count (direct): 32
-3/15/2025 12:13:47 AM: Teams found (direct):
-3/15/2025 12:13:47 AM:   TeamID: 1, TeamName: Marlins
-3/15/2025 12:13:47 AM:   TeamID: 2, TeamName: Sharks
-3/15/2025 12:13:47 AM: Sample bowlers (direct):
-3/15/2025 12:13:47 AM:   BowlerID: 1, Name: Barbara Fournier, Team: Marlins
-3/15/2025 12:13:47 AM:   BowlerID: 2, Name: David Fournier, Team: Marlins
-3/15/2025 12:13:47 AM:   BowlerID: 3, Name: John Kennedy, Team: Marlins
-3/15/2025 12:13:47 AM:   BowlerID: 4, Name: Sara Sheskey, Team: Marlins
-3/15/2025 12:13:47 AM:   BowlerID: 5, Name: Ann Patterson, Team: Sharks
-3/15/2025 12:13:47 AM: Trying to connect to the database using Entity Framework...
-3/15/2025 12:13:48 AM: Successfully connected to the database using Entity Framework
-3/15/2025 12:13:48 AM: Teams count (EF): 10
-3/15/2025 12:13:48 AM: Bowlers count (EF): 32
-3/15/2025 12:13:48 AM: Found 8 bowlers from Marlins and Sharks teams (EF)
-3/15/2025 12:13:48 AM: Sample bowlers (EF):
-3/15/2025 12:13:48 AM:   BowlerID: 1, Name: Barbara Fournier, Team: Marlins
-3/15/2025 12:13:48 AM:   BowlerID: 2, Name: David Fournier, Team: Marlins
-3/15/2025 12:13:48 AM:   BowlerID: 3, Name: John Kennedy, Team: Marlins
-3/15/2025 12:13:48 AM:   BowlerID: 4, Name: Sara Sheskey, Team: Marlins
-3/15/2025 12:13:48 AM:   BowlerID: 5, Name: Ann Patterson, Team: Sharks
-3/15/2025 12:13:48 AM: Converting to array and returning...
-3/15/2025 12:13:48 AM: Array length: 8
+BowlersController initialized at 3/15/2025 12:21:30 AM
+3/15/2025 12:21:30 AM: GetBowlers method called
+3/15/2025 12:21:30 AM: Using connection string: Data Source=/Users/zackmcdougal/RiderProjects/WebApplication1/BowlingLeague.sqlite
+3/15/2025 12:21:30 AM: Database file found at /Users/zackmcdougal/RiderProjects/WebApplication1/BowlingLeague.sqlite! Size: 212992 bytes
+3/15/2025 12:21:31 AM: Found 8 bowlers from Marlins and Sharks teams
+3/15/2025 12:21:31 AM: Sample bowlers:
+3/15/2025 12:21:31 AM:   BowlerID: 1, Name: Barbara Fournier, Team: Marlins
+3/15/2025 12:21:31 AM:   BowlerID: 2, Name: David Fournier, Team: Marlins
+3/15/2025 12:21:31 AM:   BowlerID: 3, Name: John Kennedy, Team: Marlins
+3/15/2025 12:21:31 AM:   BowlerID: 4, Name: Sara Sheskey, Team: Marlins
+3/15/2025 12:21:31 AM:   BowlerID: 5, Name: Ann Patterson, Team: Sharks

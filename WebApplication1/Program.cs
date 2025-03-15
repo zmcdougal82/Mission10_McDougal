@@ -130,6 +130,10 @@ builder.Services.AddDbContext<BowlingLeagueContext>(options =>
     options.LogTo(Console.WriteLine, LogLevel.Information);
 });
 
+// Register repositories
+builder.Services.AddScoped<WebApplication1.Repositories.IBowlerRepository, WebApplication1.Repositories.BowlerRepository>();
+builder.Services.AddScoped<WebApplication1.Repositories.ITeamRepository, WebApplication1.Repositories.TeamRepository>();
+
 // Configure CORS
 builder.Services.AddCors(options =>
 {

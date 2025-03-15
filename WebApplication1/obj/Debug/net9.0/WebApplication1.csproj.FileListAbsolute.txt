@@ -194,3 +194,4 @@
 /Users/zackmcdougal/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net9.0/WebApplication1.pdb
 /Users/zackmcdougal/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net9.0/WebApplication1.genruntimeconfig.cache
 /Users/zackmcdougal/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net9.0/ref/WebApplication1.dll
+/Users/zackmcdougal/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net9.0/WebApplication1.sourcelink.json

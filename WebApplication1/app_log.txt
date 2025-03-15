@@ -1,7 +1,7 @@
-Application started at 3/15/2025 12:13:47 AM
+Application started at 3/15/2025 12:21:30 AM
 Current directory: /Users/zackmcdougal/RiderProjects/WebApplication1/WebApplication1
-3/15/2025 12:13:47 AM: Starting application...
-3/15/2025 12:13:47 AM: Using database connection string: Data Source=/Users/zackmcdougal/RiderProjects/WebApplication1/BowlingLeague.sqlite
-3/15/2025 12:13:47 AM: Database file found at /Users/zackmcdougal/RiderProjects/WebApplication1/BowlingLeague.sqlite! Size: 212992 bytes
-3/15/2025 12:13:47 AM: Successfully opened database connection!
-3/15/2025 12:13:47 AM: Teams table exists: True
+3/15/2025 12:21:30 AM: Starting application...
+3/15/2025 12:21:30 AM: Using database connection string: Data Source=/Users/zackmcdougal/RiderProjects/WebApplication1/BowlingLeague.sqlite
+3/15/2025 12:21:30 AM: Database file found at /Users/zackmcdougal/RiderProjects/WebApplication1/BowlingLeague.sqlite! Size: 212992 bytes
+3/15/2025 12:21:30 AM: Successfully opened database connection!
+3/15/2025 12:21:30 AM: Teams table exists: True
